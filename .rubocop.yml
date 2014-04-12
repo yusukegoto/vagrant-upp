@@ -1,0 +1,6 @@
+AllCops:
+  Exclude:
+    - vendor/*
+    
+FileName:
+  Enabled: false
